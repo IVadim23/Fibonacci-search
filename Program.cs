@@ -1,4 +1,4 @@
-﻿namespace Fibonachi_search
+﻿namespace Fibonacci_search
 {
     internal class Program
     {
